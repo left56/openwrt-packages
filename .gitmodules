@@ -1,0 +1,3 @@
+[submodule "opengnb-openwrt"]
+	path = opengnb-openwrt
+	url = https://github.com/left56/opengnb-openwrt.git
