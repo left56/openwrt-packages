@@ -1,3 +1,6 @@
 [submodule "opengnb-openwrt"]
 	path = opengnb-openwrt
 	url = https://github.com/left56/opengnb-openwrt.git
+[submodule "luci-app-tailscale"]
+	path = luci-app-tailscale
+	url = https://github.com/LeanFly/luci-app-tailscale.git
